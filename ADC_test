@@ -1,8 +1,9 @@
 /*
- * New
+ * 
  *
- *  Created on: 25.02.2015
- *      Author: Malik
+ *      Reading the four analog values and then printing them out
+ *      SYSFS method
+ *      Author: Khurram
  */
 
 
